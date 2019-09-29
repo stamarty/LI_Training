@@ -1,15 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ASPMVC5-LI",
-    "\\ASPMVC5-LI\\HP.Ecommerce",
-    "\\ASPMVC5-LI\\HP.Ecommerce\\HP.Ecommerce",
-    "\\ASPMVC5-LI\\HP.Ecommerce\\HP.Ecommerce\\App_Data",
-    "\\ASPMVC5-LI\\HP.Ecommerce\\HP.Ecommerce\\Controllers",
-    "\\ASPMVC5-LI\\HP.Ecommerce\\HP.Ecommerce\\Views",
-    "\\ASPMVC5-LI\\HP.Ecommerce\\HP.Ecommerce\\Views\\Home",
-    "\\ASPMVC5-LI\\HP.Ecommerce\\HP.Ecommerce\\Views\\Shared"
+    ""
   ],
-  "SelectedNode": "\\ASPMVC5-LI\\HP.Ecommerce\\HP.Ecommerce\\Views\\Home",
   "PreviewInSolutionExplorer": false
 }
