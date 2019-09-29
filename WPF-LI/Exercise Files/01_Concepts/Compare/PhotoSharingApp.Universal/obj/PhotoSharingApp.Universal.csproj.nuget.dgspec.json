@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Universal\\PhotoSharingApp.Universal.csproj": {}
+  },
+  "projects": {
+    "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Portable\\PhotoSharingApp.Portable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Portable\\PhotoSharingApp.Portable.csproj",
+        "projectName": "PhotoSharingApp.Portable",
+        "projectPath": "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Portable\\PhotoSharingApp.Portable.csproj"
+      },
+      "frameworks": {
+        "portable45-net45+win8": {}
+      }
+    },
+    "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Universal\\PhotoSharingApp.Universal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Universal\\PhotoSharingApp.Universal.csproj",
+        "projectName": "PhotoSharingApp.Universal",
+        "projectPath": "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Universal\\PhotoSharingApp.Universal.csproj",
+        "packagesPath": "C:\\Users\\Dominator\\.nuget\\packages\\",
+        "outputPath": "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Universal\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dominator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {
+              "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Portable\\PhotoSharingApp.Portable.csproj": {
+                "projectPath": "E:\\Program Files\\Repos\\LI-Training\\WPF-LI\\Exercise Files\\01_Concepts\\Compare\\PhotoSharingApp.Portable\\PhotoSharingApp.Portable.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.Azure.Mobile.Client": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[3.5.1404, )"
+            },
+            "WindowsAzure.Messaging.Managed": {
+              "target": "Package",
+              "version": "[0.1.7.9, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10": {
+          "#import": []
+        },
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

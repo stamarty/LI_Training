@@ -1,3 +1,8 @@
 
 *.mov
 LearnAspNetCoreRazorPages/
+/WPF-LI/Exercise Files/01_Concepts/Compare/.vs/CompareDesktopFrameworks/v16/Server/sqlite3/storage.ide-wal
+/WPF-LI/Exercise Files/01_Concepts/Compare/.vs/CompareDesktopFrameworks/v16/Server/sqlite3/storage.ide-shm
+/WPF-LI/Exercise Files/01_Concepts/Compare/.vs/CompareDesktopFrameworks/v16/Server/sqlite3/storage.ide
+/WPF-LI/Exercise Files/01_Concepts/Compare/.vs/CompareDesktopFrameworks/v16/Server/sqlite3/db.lock
+/WPF-LI/Exercise Files/01_Concepts/Compare/.vs/CompareDesktopFrameworks/v16/.suo

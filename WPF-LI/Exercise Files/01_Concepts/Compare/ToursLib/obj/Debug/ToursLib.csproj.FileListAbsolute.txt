@@ -1,0 +1,5 @@
+E:\Program Files\Repos\LI-Training\WPF-LI\Exercise Files\01_Concepts\Compare\ToursLib\bin\Debug\ToursLib.dll
+E:\Program Files\Repos\LI-Training\WPF-LI\Exercise Files\01_Concepts\Compare\ToursLib\bin\Debug\ToursLib.pdb
+E:\Program Files\Repos\LI-Training\WPF-LI\Exercise Files\01_Concepts\Compare\ToursLib\obj\Debug\ToursLib.csproj.CoreCompileInputs.cache
+E:\Program Files\Repos\LI-Training\WPF-LI\Exercise Files\01_Concepts\Compare\ToursLib\obj\Debug\ToursLib.dll
+E:\Program Files\Repos\LI-Training\WPF-LI\Exercise Files\01_Concepts\Compare\ToursLib\obj\Debug\ToursLib.pdb
